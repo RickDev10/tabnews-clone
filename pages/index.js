@@ -2,7 +2,7 @@ function home(){
 
     return(
 
-        <h1>Eu como coco</h1>
+        <h1>Jose come coco</h1>
 
     )
 
